@@ -1,0 +1,17 @@
+1) SQL :
+
+-Structured Query Language or SQL, as it's more commonly known, is a programming language used to manage, query, and retrieve data in a relational database.
+
+-SQL Server is Commercial product from Microsoft.
+
+-Its uses Transact-SQL or T-SQL (standard SQL + extra functionality).
+
+
+2) PSQL:
+
+-PostgreSQL is an open source object-relational database management system, released under the PostgreSQL License. It supports both relational (SQL) and non-relational (JSON) and offers advanced SQL functions, including foreign keys, subqueries, and triggers.
+
+-Its Open source (completely free) .
+
+-Its Uses Standard SQL.
+
